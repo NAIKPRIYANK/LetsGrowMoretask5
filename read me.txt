@@ -1,0 +1,6 @@
+Project Name: student Result Management System
+Login Details for admin : 
+Username: admin
+Password: Priy@#123
+
+
